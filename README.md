@@ -3,8 +3,8 @@
 This script is designed for preprocessing Satellite Nighttime Light Data using ArcGIS. It performs several tasks to prepare the data for further studies. The preprocessed Satellite NLD can be used in various studies, including urban economics, crisis tracking, development economics research and natural disaster analysis.
 
 ## Datasets
-- Satellite Nighttime Light Data downloaded from Earth Observation Group website, Payne Institute for Public Policy, Colorado School of Mines (https://eogdata.mines.edu/products/dmsp/). DMSP data collected by US Air Force Weather Agency.
-- Country boundary shapefile is downloaded from https://gadm.org/
+- Satellite Nighttime Light Data downloaded from [Earth Observation Group website](https://eogdata.mines.edu/products/dmsp/), Payne Institute for Public Policy, Colorado School of Mines. DMSP data collected by US Air Force Weather Agency.
+- Country boundary shapefile is [downloaded here](https://gadm.org/)
 
 ## Programs and programming languages
 - ArcGIS - raster file analysis
