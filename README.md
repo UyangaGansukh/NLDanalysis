@@ -27,6 +27,9 @@ This script is designed for preprocessing Satellite Nighttime Light Data using A
    - Process: Calculate zonal statistics (mean, min, max, range, etc) for each grid cell
    - Output: Zonal statistics table for each satellite-year
 
+5. **Intercalibration of NLD timeseries**
+   - Depending on the data product, the NLD timeseries can require intercalibration 
+
 ## Notes
 - Modify the file paths and run the script in ArcGIS environment.
 - Adjust the parameters based on the specific requirements of your analysis.
