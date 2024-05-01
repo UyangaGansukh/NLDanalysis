@@ -22,10 +22,10 @@ This script is designed for preprocessing Satellite Nighttime Light Data using A
    - Process: Clip grid to the country shape
    - Output: Clipped grid feature class 
 
-4. **Calculate Zonal Statistics by Grid**
-   - Input: Grid, NLD raster
+4. **Calculate Zonal Statistics of each pixel/region**
+   - Input: Shape file, NLD raster
    - Process: Calculate zonal statistics (mean, min, max, range, etc) for each grid cell
-   - Output: Zonal statistics table for satellite-each year
+   - Output: Zonal statistics table for each satellite-year
 
 ## Notes
 - Modify the file paths and run the script in ArcGIS environment.
