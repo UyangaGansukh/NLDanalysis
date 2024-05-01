@@ -4,7 +4,7 @@ This script is designed for preprocessing Satellite Nighttime Light Data using A
 
 ## Datasets
 - Satellite Nighttime Light Data downloaded from [Earth Observation Group website](https://eogdata.mines.edu/products/dmsp/), Payne Institute for Public Policy, Colorado School of Mines. DMSP data collected by US Air Force Weather Agency.
-- Country boundary shapefile is [downloaded here](https://gadm.org/)
+- Country boundary shapefile is [downloaded here](https://gadm.org/).
 
 ## Programs and programming languages
 - ArcGIS - raster file analysis
